@@ -19,9 +19,6 @@ Vue.js | Tailwind CSS | Gulp.js | Bootstrap
  
 故宮3D網站｜
  * https://theme.npm.edu.tw/3d/Index.aspx?l=1
-
-故宮線上主網｜
- * https://theme.npm.edu.tw/npmonline/
  
 海科館繪製世界活動網｜
  * https://theme.npm.edu.tw/exh109/NPMxNMMST/
